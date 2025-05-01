@@ -1,4 +1,4 @@
-# 🌟**Dazzling-Dance-Studio - Dance School Management System**🌟
+## 🌟**Dazzling-Dance-Studio - Dance School Management System**🌟
 Dazzling Dance Studio is a **full-fledged, role-based Dance School Management System** developed using the **powerful front-end library React.js**, integrated with **Bootstrap, HTML, CSS, and Favicon icon libraries** to deliver a visually engaging and user-friendly interface. The project simulates a **centralized digital portal** that streamlines the entire workflow of a dance academy—from student enrollment and class registrations to instructor session management and administrative supervision.
 
 Built with modular React components and dynamic routing, this system encapsulates **three unique user roles: Student, Instructor,** and **Admin,** each having a distinct and secure dashboard experience tailored to their responsibilities and privileges.
