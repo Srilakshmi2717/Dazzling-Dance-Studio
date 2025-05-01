@@ -61,3 +61,6 @@ The system is designed with **scalability in mind,** allowing for easy future in
 The Dazzling Dance Studio project showcases not only your technical expertise in React and front-end development but also your deep understanding of **user experience, component design, and role-based access control.** It brings to life a real-world solution that could be implemented in any arts academy, and it sets a solid foundation for more advanced cloud-based, full-stack deployments.
 
 This project serves as a shining example of how modern web technologies can transform traditional systems into efficient, delightful digital experiences.
+
+### **Demo Video Link** 
+[View the Dazzling Dance Studio Demo Video]([https://your-live-demo-link.com](https://drive.google.com/file/d/1cXh2n1Tii-S5lUMZXhcyoo6Mqrt2tV5P/view?usp=sharing)
