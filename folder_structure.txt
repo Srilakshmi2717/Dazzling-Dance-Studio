@@ -7,7 +7,6 @@ src/
 ├── components/
 │   ├── Navbar.jsx
 │   ├── Footer.jsx
-│   ├── CardComponent.jsx
 │
 ├── pages/
 │   ├── Home.jsx
