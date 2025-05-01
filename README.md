@@ -63,4 +63,4 @@ The Dazzling Dance Studio project showcases not only your technical expertise in
 This project serves as a shining example of how modern web technologies can transform traditional systems into efficient, delightful digital experiences.
 
 ### **Demo Video Link** 
-[View the Dazzling Dance Studio Demo Video]([https://drive.google.com/file/d/1cXh2n1Tii-S5lUMZXhcyoo6Mqrt2tV5P/view?usp=sharing])
+[View the Dazzling Dance Studio Demo Video](https://drive.google.com/file/d/1cXh2n1Tii-S5lUMZXhcyoo6Mqrt2tV5P/view?usp=sharing)
