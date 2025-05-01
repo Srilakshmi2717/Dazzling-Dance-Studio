@@ -1,0 +1,30 @@
+src/
+│
+├── App.jsx
+├── index.js
+├── routes.js
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── Footer.jsx
+│   ├── CardComponent.jsx
+│
+├── pages/
+│   ├── Home.jsx
+│   ├── Login.jsx
+│   ├── Signup.jsx
+│   ├── ForgotPassword.jsx
+│   ├── AboutUs.jsx
+│   ├── PrivacyPolicy.jsx
+│   ├── FAQs.jsx
+│   ├── Terms.jsx
+│
+│   ├── admin/
+│   │   ├── AdminDashboard.jsx
+│
+│   ├── student/
+│   │   ├── StudentDashboard.jsx
+│   │   ├── AvailableClasses.jsx
+│
+│   ├── instructor/
+│       ├── InstructorDashboard.jsx
