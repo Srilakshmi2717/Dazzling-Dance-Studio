@@ -28,11 +28,10 @@ Built with modular React components and dynamic routing, this system encapsulate
 | **HTML/CSS**       | Structural and visual styling enhancements                              |
 | **Favicon**        | Custom icons for navigation and user interface clarity                  |
 | **React Router**   | Enables seamless single-page application navigation                     |
-| **LocalStorage &** |                                                                         |
+| **LocalStorage &**                                                                           |
 | **SessionStorage** | Maintains user login sessions and app state management                  |
 | **JSON-Server**    | Simulated REST API backend to perform HTTP operations (CRUD)            |
 | **Axios**          | HTTP client to send requests to the JSON server                         |
-|----------------------------------------------------------------------------------------------|
 
 ### **🛠️ Functional Highlights:**
 - Dynamic Routing: Each user role has dedicated routes (/student, /instructor, /admin) with protected access.
